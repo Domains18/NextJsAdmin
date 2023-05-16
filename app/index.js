@@ -32,7 +32,7 @@ const Home = () => {
                     <Popularjobs />
                     <Nearbyjobs/>
                 </View>
-            </ScrollView>
+             </ScrollView>
         </SafeAreaView>
     );
 }
