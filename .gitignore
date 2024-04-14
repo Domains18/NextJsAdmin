@@ -1,1 +1,11 @@
 .vscode
+.idea
+*.iml
+
+.*.cmd
+*.o
+*.ko
+*.mod
+*.mod.c
+*.order
+module.symvers
